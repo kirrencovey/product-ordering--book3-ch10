@@ -1,0 +1,14 @@
+#productList {
+    display: flex;
+    justify-content: space-around
+}
+
+.product {
+    border: 1px solid grey;
+    flex-basis: 40%;
+    padding: 15px;
+}
+
+img {
+    height: 250px;
+}

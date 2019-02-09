@@ -1,0 +1,52 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "title": "Yarn & Mitre",
+        "description": "Seitan locavore banh mi celiac pour-over fashion axe. Messenger bag migas health goth pour-over.",
+        "price": 85.00,
+        "quantity": 37,
+        "image": "https://placeimg.com/640/480/people"
+    },
+    {
+        "id": 2,
+        "title": "Waistcoat & Railway",
+        "description": "Mustache mumblecore franzen chia PBR&B retro. Waistcoat raclette raw denim meditation, four loko sartorial palo santo chia knausgaard mixtape blog.",
+        "price": 200.00,
+        "quantity": 13,
+        "image": "https://placeimg.com/640/480/arch?t=1549574286122"
+    }
+],
+    "reviews": [
+        {
+            "id": 1,
+            "productID": 1,
+            "reviewMessage": "Celiac tumeric truffaut, put a bird on it tumblr bicycle rights williamsburg normcore tofu authentic art party. Lomo helvetica poke ethical bitters, edison bulb tumeric echo park tofu messenger bag chartreuse kinfolk vexillologist kombucha."
+        },
+        {
+            "id": 2,
+            "productID": 1,
+            "reviewMessage": "Keffiyeh biodiesel live-edge tacos, next level farm-to-table retro. Scenester leggings butcher, XOXO pok pok 90's taxidermy pitchfork banjo. Photo booth DIY truffaut, messenger bag tote bag selvage man braid blue bottle kombucha."
+        },
+        {
+            "id": 3,
+            "productID": 1,
+            "reviewMessage": "XOXO jianbing food truck ugh. Four dollar toast cronut offal live-edge taiyaki bicycle rights cray iceland occupy aesthetic chambray franzen flannel PBR&B copper mug. Live-edge prism activated charcoal poke cronut intelligentsia selfies."
+        },
+        {
+            "id": 4,
+            "productID": 2,
+            "reviewMessage": "Tilde meh chartreuse chillwave synth umami forage squid taxidermy chambray cold-pressed helvetica slow-carb gluten-free. Aesthetic cloud bread wayfarers irony PBR&B kitsch banjo unicorn vegan marfa keffiyeh bespoke. Etsy leggings affogato la croix craft beer enamel pin."
+        },
+        {
+            "id": 5,
+            "productID": 2,
+            "reviewMessage": "3 wolf moon chicharrones street art palo santo organic authentic etsy sartorial austin yr. Taiyaki direct trade trust fund, marfa tilde tattooed celiac synth health goth chillwave vegan selvage farm-to-table XOXO church-key. Blue bottle celiac everyday carry fixie raw denim locavore, literally la croix wayfarers jean shorts raclette post-ironic."
+        },
+        {
+            "id": 6,
+            "productID": 2,
+            "reviewMessage": "Fanny pack pour-over before they sold out tilde cred hella fingerstache tumeric cold-pressed sartorial ethical lomo kale chips celiac. Meggings la croix ramps roof party. Waistcoat swag marfa pickled man bun mixtape williamsburg mumblecore."
+        }
+    ]
+}
