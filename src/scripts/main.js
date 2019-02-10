@@ -15,5 +15,5 @@
 import Nav from "./Nav"
 import ProductList from "./ProductList"
 
-
+Nav()
 ProductList()
